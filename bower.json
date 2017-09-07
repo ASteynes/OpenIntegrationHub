@@ -1,0 +1,17 @@
+{
+  "name": "OpenIntegrationHub",
+  "homepage": "https://github.com/OpenIntegrationHub/OpenIntegrationHub",
+  "authors": [
+    "raphael <raphael.komander@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
